@@ -1,3 +1,5 @@
+package org.cuteviruses.simplekeylogger;
+
 import com.github.kwhat.jnativehook.keyboard.NativeKeyEvent;
 import com.github.kwhat.jnativehook.keyboard.NativeKeyListener;
 import java.io.IOException;
